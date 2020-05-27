@@ -1,4 +1,4 @@
-For details: https://medium.com/@shaqian629/real-time-object-detection-in-flutter-b31c7ff9ef96
+
 
 # flutter_realtime_detection
 
@@ -17,7 +17,8 @@ flutter run
 ```
 
 ## Models
-
+- Image Classification
+  - Mask (Techable mechine)
 - Image Classification
   - MobileNet
 
