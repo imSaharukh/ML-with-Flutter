@@ -19,15 +19,7 @@ flutter run
 ## Models
 - Image Classification
   - Mask (Techable mechine)
-- Image Classification
-  - MobileNet
 
-- Object Detection
-  - SSD MobileNet
-  - Yolov2 Tiny
-
-- Pose Estimation 
-  - PoseNet
 
 ## Previews
 
